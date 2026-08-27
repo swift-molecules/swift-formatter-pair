@@ -19,7 +19,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/swift-molecules/swift-formatter.git",
+            url: "https://github.com/swift-atoms/swift-formatter.git",
             branch: "main"
         ),
         .package(
