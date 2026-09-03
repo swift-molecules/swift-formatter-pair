@@ -19,15 +19,15 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/swift-atoms/swift-formatter.git",
+            url: "https://github.com/swift-atoms/swift-formatter",
             branch: "main"
         ),
         .package(
-            url: "https://github.com/swift-atoms/swift-either.git",
+            url: "https://github.com/swift-atoms/swift-either",
             branch: "main"
         ),
         .package(
-            url: "https://github.com/swift-atoms/swift-pair.git",
+            url: "https://github.com/swift-atoms/swift-pair",
             branch: "main"
         ),
     ],
